@@ -2,17 +2,6 @@
 <html>
     <head>
     <link rel="stylesheet" href="index.css">
-<style>
-body {
-    background-color: blue;
-  }
-  h1 {
-    color: pink;
-  }
-  p {
-    color: red;
-  }
-</style>
   </head>
   <body>
   
@@ -24,6 +13,14 @@ body {
   <li>kiran</li>
   <li>nadhav</li>
 </ol>
-
-  </body>
+ </body>
   </html>
+body {
+    background-color: blue;
+  }
+  h1 {
+    color: pink;
+  }
+  p {
+    color: red;
+  }
