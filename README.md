@@ -1,15 +1,6 @@
 # level4
 <html>
     <head>
-        body {
-    background-color: blue;
-  }
-  h1 {
-    color: pink;
-  }
-  p {
-    color: red;
-  }
     <link rel="stylesheet" href="index.css">
   </head>
   <body>
